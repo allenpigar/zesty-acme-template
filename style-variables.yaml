@@ -1,0 +1,22 @@
+
+  - referenceName: "font-family-base"
+    name: "Main Body Font"
+    sort: 1
+    type: "font_picker"
+    value: "Open Sans:400"
+    description: null
+    category: 2
+  - referenceName: "brand-primary"
+    name: "Brand Color"
+    sort: 3
+    type: "color"
+    value: "#78a1bb"
+    description: "#41bdd2"
+    category: 1
+  - referenceName: "brand-secondary"
+    name: "Secondary Brand Color"
+    sort: 4
+    type: "color"
+    value: "#23293e"
+    description: "Default: #1d2726"
+    category: 1
